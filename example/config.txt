@@ -1,0 +1,2 @@
+Prefix plugins/MARSample/example/
+Plugin MARSample inputfile parameters.txt outputfile .
